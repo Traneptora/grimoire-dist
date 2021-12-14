@@ -5,8 +5,8 @@
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
     <link>https://thebombzen.com/grimoire/</link>
     <atom:link href="https://thebombzen.com/grimoire/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 14 Dec 2021 10:17:05 -0500</pubDate>
-    <lastBuildDate>Tue, 14 Dec 2021 10:17:05 -0500</lastBuildDate>
+    <pubDate>Tue, 14 Dec 2021 10:29:44 -0500</pubDate>
+    <lastBuildDate>Tue, 14 Dec 2021 10:29:44 -0500</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -150,6 +150,8 @@
         
         <category>level2</category>
         
+        <category>concentration</category>
+        
         <category>transmutation</category>
         
         
@@ -221,6 +223,8 @@
         <category>wizard</category>
         
         <category>level5</category>
+        
+        <category>concentration</category>
         
         <category>conjuration</category>
         
@@ -336,6 +340,8 @@
         
         <category>level2</category>
         
+        <category>concentration</category>
+        
         <category>illusion</category>
         
         
@@ -374,6 +380,8 @@
         <category>wizard</category>
         
         <category>level6</category>
+        
+        <category>concentration</category>
         
         <category>abjuration</category>
         
