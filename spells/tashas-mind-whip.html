@@ -7,6 +7,7 @@
     <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="/fonts/libertinus/LibertinusSerif-Regular.woff2">
     <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="/fonts/libertinus/LibertinusSerifDisplay-Regular.woff2">
     <link rel="preload" as="script" crossorigin="anonymous" href="/grimoire/js/jets@0.14.1.min.js">
+    <link rel="preload" as="script" crossorigin="anonymous" href="/grimoire/js/tagsearch.js">
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
@@ -27,28 +28,24 @@
     <meta property="og:image:width" content="256">
     <meta property="og:image:height" content="256">
     <meta property="og:image:alt" content="A book with a magnifying glass">
-    <script src="/grimoire/js/jets@0.14.1.min.js"></script>
-    <script type="text/javascript">
-    	function menuClick() {
-    		if ( document.getElementById("menu").className.match(/(?:^|\s)show(?!\S)/) ) {
-    			document.getElementById("menu").className = document.getElementById("menu").className.replace ( /(?:^|\s)show(?!\S)/g , '' )
-    		}
-    		else {
-    			document.getElementById("menu").className += " show";
-    		}
-    		if ( document.getElementById("menu2").className.match(/(?:^|\s)show(?!\S)/) ) {
-    			document.getElementById("menu2").className = document.getElementById("menu2").className.replace ( /(?:^|\s)show(?!\S)/g , '' )
-    		}
-    		else {
-    			document.getElementById("menu2").className += " show";
-    		}
-  		}
-
-  		window.onload = function(){
-        document.getElementById("menuIcon").addEventListener( 'click' , menuClick );
-	    }
+    <script defer src="/grimoire/js/jets@0.14.1.min.js"></script>
+    <script defer type="text/javascript">
+        document.getElementById('menuIcon').addEventListener('click', () => {
+            const menu = document.getElementById('menu');
+            if (menu.className.match(/(?:^|\s)show(?!\S)/)) {
+                menu.className = menu.className.replace( /(?:^|\s)show(?!\S)/g, '');
+            } else {
+                menu.className += ' show';
+            }
+            const menu2 = document.getElementById('menu2');
+            if (menu2.className.match(/(?:^|\s)show(?!\S)/)) {
+                menu2.className = menu2.className.replace(/(?:^|\s)show(?!\S)/g, '');
+            } else {
+                menu2.className += ' show';
+            }
+        });
     </script>
-    <script src="/grimoire/js/tagsearch.js"></script>
+    <script defer src="/grimoire/js/tagsearch.js"></script>
 </head>
 
 
