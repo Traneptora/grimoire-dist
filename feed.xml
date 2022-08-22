@@ -3,10 +3,10 @@
   <channel>
     <title>The Grimoire</title>
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
-    <link>https://thebombzen.com/grimoire/</link>
-    <atom:link href="https://thebombzen.com/grimoire/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 20 Aug 2022 09:42:34 -0400</pubDate>
-    <lastBuildDate>Sat, 20 Aug 2022 09:42:34 -0400</lastBuildDate>
+    <link>https://grimoire.thebombzen.xyz//</link>
+    <atom:link href="https://grimoire.thebombzen.xyz//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 22 Aug 2022 12:51:08 -0400</pubDate>
+    <lastBuildDate>Mon, 22 Aug 2022 12:51:08 -0400</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -24,8 +24,8 @@
 &lt;p&gt;Holding the rod used in the casting of the spell, you touch a Large or smaller chair that is unoccupied. The rod disappears, and the chair is transformed into a spelljamming helm.&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Aug 2022 00:00:00 -0400</pubDate>
-        <link>https://thebombzen.com/grimoire/spells/create-spelljamming-helm</link>
-        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/create-spelljamming-helm</guid>
+        <link>https://grimoire.thebombzen.xyz//spells/create-spelljamming-helm</link>
+        <guid isPermaLink="true">https://grimoire.thebombzen.xyz//spells/create-spelljamming-helm</guid>
         
         <category>artificer</category>
         
@@ -59,8 +59,8 @@
 &lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 3rd level or higher, you can create two additional globes of fresh air for each slot level above 2nd.&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Aug 2022 00:00:00 -0400</pubDate>
-        <link>https://thebombzen.com/grimoire/spells/air-bubble</link>
-        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/air-bubble</guid>
+        <link>https://grimoire.thebombzen.xyz//spells/air-bubble</link>
+        <guid isPermaLink="true">https://grimoire.thebombzen.xyz//spells/air-bubble</guid>
         
         <category>artificer</category>
         
@@ -100,8 +100,8 @@
 &lt;p&gt;Until the spell ends, you can use your action to summon the object to your free hand, and you can use your action to return the object to the extradimensional space. An object still in the pocket plane when the spell ends appears in your space, at your feet.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Apr 2022 00:00:00 -0400</pubDate>
-        <link>https://thebombzen.com/grimoire/spells/wristpocket</link>
-        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/wristpocket</guid>
+        <link>https://grimoire.thebombzen.xyz//spells/wristpocket</link>
+        <guid isPermaLink="true">https://grimoire.thebombzen.xyz//spells/wristpocket</guid>
         
         <category>level2</category>
         
@@ -133,8 +133,8 @@
 &lt;p&gt;You target a creature you can see within range, putting its physical form through the devastation of rapid aging. The target must make a Constitution saving throw, taking 10dl2 necrotic damage on a failed save, or half as much damage on a successful one. If the save fails, the target also ages to the point where it has only 30 days left before it dies of old age. In this aged state, the target has disadvantage on attack rolls, ability checks, and saving throws, and its walking speed is halved. Only the &lt;a href=&quot;wish&quot;&gt;&lt;em&gt;wish&lt;/em&gt;&lt;/a&gt; spell or the &lt;a href=&quot;greater-restoration&quot;&gt;&lt;em&gt;greater restoration&lt;/em&gt;&lt;/a&gt; cast with a 9th-level spell slot can end these effects and restore the target to its previous age.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Apr 2022 00:00:00 -0400</pubDate>
-        <link>https://thebombzen.com/grimoire/spells/time-ravage</link>
-        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/time-ravage</guid>
+        <link>https://grimoire.thebombzen.xyz//spells/time-ravage</link>
+        <guid isPermaLink="true">https://grimoire.thebombzen.xyz//spells/time-ravage</guid>
         
         <category>level9</category>
         
@@ -162,8 +162,8 @@
 &lt;p&gt;Two creatures you can see within range must make a Constitution saving throw, with disadvantage if they are within 30 feet of each other. Either creature can willingly fail the save. If either save succeeds, the spell has no effect. If both saves fail, the creatures are magically linked for the duration, regardless of the distance between them. When damage is dealt to one of them, the same damage is dealt to the other one. If hit points are restored to one of them, the same number of hit points are restored to the other one. If either of the tethered creatures is reduced to 0 hit points, the spell ends on both. If the spell ends on one creature, it ends on both.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Apr 2022 00:00:00 -0400</pubDate>
-        <link>https://thebombzen.com/grimoire/spells/tether-essence</link>
-        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/tether-essence</guid>
+        <link>https://grimoire.thebombzen.xyz//spells/tether-essence</link>
+        <guid isPermaLink="true">https://grimoire.thebombzen.xyz//spells/tether-essence</guid>
         
         <category>level7</category>
         
@@ -195,8 +195,8 @@
 &lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. All targets must be within 30 feet of each other.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Apr 2022 00:00:00 -0400</pubDate>
-        <link>https://thebombzen.com/grimoire/spells/temporal-shunt</link>
-        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/temporal-shunt</guid>
+        <link>https://grimoire.thebombzen.xyz//spells/temporal-shunt</link>
+        <guid isPermaLink="true">https://grimoire.thebombzen.xyz//spells/temporal-shunt</guid>
         
         <category>level5</category>
         
@@ -253,8 +253,8 @@
 &lt;/table&gt;
 </description>
         <pubDate>Tue, 12 Apr 2022 00:00:00 -0400</pubDate>
-        <link>https://thebombzen.com/grimoire/spells/reality-break</link>
-        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/reality-break</guid>
+        <link>https://grimoire.thebombzen.xyz//spells/reality-break</link>
+        <guid isPermaLink="true">https://grimoire.thebombzen.xyz//spells/reality-break</guid>
         
         <category>level8</category>
         
@@ -289,8 +289,8 @@
 the sphere is in the air, the restrained creature hovers inside the sphere. A creature can use its action to make a Strength check against your spell save DC, ending this restrained condition on itself or another creature in the sphere that it can reach. A creature reduced to 0 hit points by this spell is annihilated, along with any nonmagical items it is wearing or carrying.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Apr 2022 00:00:00 -0400</pubDate>
-        <link>https://thebombzen.com/grimoire/spells/ravenous-void</link>
-        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/ravenous-void</guid>
+        <link>https://grimoire.thebombzen.xyz//spells/ravenous-void</link>
+        <guid isPermaLink="true">https://grimoire.thebombzen.xyz//spells/ravenous-void</guid>
         
         <category>level9</category>
         
@@ -324,8 +324,8 @@ the sphere is in the air, the restrained creature hovers inside the sphere. A cr
 &lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 and the distance pulled or pushed increases by 5 feet for each slot level above 3rd.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Apr 2022 00:00:00 -0400</pubDate>
-        <link>https://thebombzen.com/grimoire/spells/pulse-wave</link>
-        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/pulse-wave</guid>
+        <link>https://grimoire.thebombzen.xyz//spells/pulse-wave</link>
+        <guid isPermaLink="true">https://grimoire.thebombzen.xyz//spells/pulse-wave</guid>
         
         <category>level3</category>
         
@@ -357,8 +357,8 @@ the sphere is in the air, the restrained creature hovers inside the sphere. A cr
 &lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Apr 2022 00:00:00 -0400</pubDate>
-        <link>https://thebombzen.com/grimoire/spells/magnify-gravity</link>
-        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/magnify-gravity</guid>
+        <link>https://grimoire.thebombzen.xyz//spells/magnify-gravity</link>
+        <guid isPermaLink="true">https://grimoire.thebombzen.xyz//spells/magnify-gravity</guid>
         
         <category>level1</category>
         
