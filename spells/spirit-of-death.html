@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="preload" as="style" href="/fonts/libertinus.css">
+    <link rel="preload" as="style" href="/css/main.css">
+    <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="/fonts/libertinus/LibertinusSerif-Regular.woff2">
+    <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="/fonts/libertinus/LibertinusSerifDisplay-Regular.woff2">
+    <link rel="preload" as="script" href="/js/jets@0.14.1.min.js">
+    <link rel="preload" as="script" href="/js/tagsearch.js">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Spirit of Death</title>
+    <meta name="description" content="A searchable D&D 5e spell list, sorted by class and level.">
+    <link rel="icon" href="/images/calibre-viewer.png?v=1">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/fonts/libertinus.css">
+    <link rel="canonical" href="https://grimoire.thebombzen.xyz/spells/spirit-of-death">
+    <meta property="og:title" content="The Grimoire">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://grimoire.thebombzen.xyz">
+    <meta property="og:description" content="Spirit of Death - The Grimoire - A searchable D&D 5e spell list, sorted by class and level.">
+    <meta property="og:image" content="/images/calibre-viewer.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="256">
+    <meta property="og:image:height" content="256">
+    <meta property="og:image:alt" content="A book with a magnifying glass">
+    <script defer src="/js/jets@0.14.1.min.js"></script>
+    <script defer src="/js/tagsearch.js"></script>
+    <script defer type="text/javascript">
+        var jets = null;
+        const menuClick = () => {
+            const menu = document.getElementById('menu');
+            if (menu.className.match(/(?:^|\s)show(?!\S)/)) {
+                menu.className = menu.className.replace( /(?:^|\s)show(?!\S)/g, '');
+            } else {
+                menu.className += ' show';
+            }
+            const menu2 = document.getElementById('menu2');
+            if (menu2.className.match(/(?:^|\s)show(?!\S)/)) {
+                menu2.className = menu2.className.replace(/(?:^|\s)show(?!\S)/g, '');
+            } else {
+                menu2.className += ' show';
+            }
+        };
+        document.addEventListener('DOMContentLoaded', () => {
+            document.getElementById('menuIcon').addEventListener('click', menuClick);
+            if (document.getElementById('jetsSearch')) {
+                jets = new Jets({
+                    searchTag: '#jetsSearch',
+                    contentTag: '.jetsContent',
+                    didSearch: (search_phrase) => {
+                        const elements = document.getElementsByClassName('jetsHide');
+                        if (!search_phrase.trim()) {
+                            for (let i = 0; i < elements.length; i++) {
+                                elements[i].classList.remove('searchHide');
+                            }
+                        } else {
+                            for (let i = 0; i < elements.length; i++) {
+                                elements[i].classList.add('searchHide');
+                            }
+                        }
+                    },
+                });
+            }
+        });
+    </script>   
+</head>
+
+  <body>
+    <header class="site-header">
+  <a id="top"></a>
+  <div class="wrapper">
+    <nav class="site-nav">
+      <a class="site-title" href="/">The Grimoire</a>
+      <a href="#" id="menuIcon" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div id="menu" class="trigger">
+        
+          <a class="page-link" href="/tags/artificer.html">Artificer</a>
+        
+          <a class="page-link" href="/tags/bard.html">Bard</a>
+        
+          <a class="page-link" href="/tags/cleric.html">Cleric</a>
+        
+          <a class="page-link" href="/tags/druid.html">Druid</a>
+        
+          <a class="page-link" href="/tags/paladin.html">Paladin</a>
+        
+          <a class="page-link" href="/tags/ranger.html">Ranger</a>
+        
+          <a class="page-link" href="/tags/sorcerer.html">Sorcerer</a>
+        
+          <a class="page-link" href="/tags/warlock.html">Warlock</a>
+        
+          <a class="page-link" href="/tags/wizard.html">Wizard</a>
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+  <header class="post-header">
+    <h1 class="post-title">Spirit of Death</h1>
+    <dl class="tag-list">
+    <dt>Sources:</dt>
+      
+      <dd>BMT.50</dd>
+      
+    </dl>
+    <dl class="tag-list">
+      <dt>Tags:</dt>
+      
+      <dd>
+          
+            <a href="/tags/sorcerer.html">sorcerer</a>
+          
+      </dd>
+      
+      <dd>
+          
+            <a href="/tags/warlock.html">warlock</a>
+          
+      </dd>
+      
+      <dd>
+          
+            <a href="/tags/wizard.html">wizard</a>
+          
+      </dd>
+      
+      <dd>
+          
+            <a href="/#level4">level4</a>
+          
+      </dd>
+      
+      <dd>
+          
+            <a href="/tags/action.html">action</a>
+          
+      </dd>
+      
+      <dd>
+          
+            <a href="/tags/concentration.html">concentration</a>
+          
+      </dd>
+      
+      <dd>
+          
+            <a href="/tags/necromancy.html">necromancy</a>
+          
+      </dd>
+      
+    </dl>
+    
+  </header>
+  <article class="post-content">
+    <p><strong>4th-level necromancy</strong></p>
+
+<p><strong>Casting Time</strong>: 1 action</p>
+
+<p><strong>Range</strong>: 60 feet</p>
+
+<p><strong>Components</strong>: V, S, M (a gilded playing card worth at least 400 gp and depicting an avatar of death)</p>
+
+<p><strong>Duration</strong>: Concentration, up to 1 hour</p>
+
+<p>You call forth a spirit that embodies death. The spirit manifests in an unoccupied space you can see within range and uses the reaper spirit stat block. The spirit disappears when it is reduced to 0 hit points or when the spell ends.</p>
+
+<p>The spirit is an ally to you and your companions. In combat, the spirit shares your initiative count and takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue the spirit any commands, it takes the Dodge action and uses its movement to avoid danger.</p>
+
+<p><strong><em>At Higher Levels.</em></strong> When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell’s level appears in the reaper spirit stat block.</p>
+
+<h2 id="reaper-spirit"><u>Reaper Spirit</u></h2>
+
+<p><em>Medium Undead, Neutral</em><br />
+<strong>Armor Class</strong> 11 + the level of the spell (natural armor)<br />
+<strong>Hit Points</strong> 40 + 10 for each spell level above 4th<br />
+<strong>Speed</strong> 30 ft. fly 30 ft (hover).</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">STR</th>
+      <th style="text-align: center">DEX</th>
+      <th style="text-align: center">CON</th>
+      <th style="text-align: center">INT</th>
+      <th style="text-align: center">WIS</th>
+      <th style="text-align: center">CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">16 (+3)</td>
+      <td style="text-align: center">16 (+3)</td>
+      <td style="text-align: center">16 (+3)</td>
+      <td style="text-align: center">16 (+3)</td>
+      <td style="text-align: center">16 (+3)</td>
+      <td style="text-align: center">16 (+3)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Damage Immunities</strong> necrotic, poison<br />
+<strong>Condition Immunities</strong> charmed, exhaustion, frightened, paralyzed, poisoned<br />
+<strong>Senses</strong> darkvision 60 ft., passive Perception 13<br />
+<strong>Languages</strong> understands the languages you speak</p>
+
+<p><strong><em>Incorporeal Movement.</em></strong> The spirit can move through other creatures and objects as if they were difficult terrain. If it ends its turn inside an object, it is shunted to the nearest unoccupied space and takes 1d10 force damage for every 5 feet shunted.</p>
+
+<h3 id="actions"><u>Actions</u></h3>
+<p><strong><em>Multiattack.</em></strong> The spirit makes a number of Reaping Scythe attacks equal to half the level of the spell (rounded down).</p>
+
+<p><strong><em>Reaping Scythe.</em></strong> <em>Melee Weapon Attack:</em> your spell attack modifier to hit (with advantage), reach 5 ft., the creature haunted by <em>Haunt Creature.</em><br />
+<em>Hit:</em> 1d8 + 3 + the spell’s level necrotic damage.</p>
+
+<h3 id="bonus-actions"><u>Bonus Actions</u></h3>
+<p><strong><em>Haunt Creature.</em></strong> The spirit targets a creature it can see within 10 feet of itself and begins haunting it. While the target is haunted, you and the spirit sense the direction and distance to the target if it is on the same plane of existence as you. Additionally, if the target starts its turn within 10 feet of the spirit, the target must succeed on a Wisdom saving throw against your spell save DC or have the frightened condition until the start of the target’s next turn. The target remains haunted until it dies, the spirit disappears, or the spirit uses this action again.</p>
+
+  </article>
+</div>
+
+      </div>
+    </div>
+    <footer class="site-footer">
+    <div class="wrapper">
+        <h2 class="footer-heading">The Grimoire</h2>
+        <div class="footer-col-wrapper">
+            <div class="footer-col footer-col-1">
+                <ul class="contact-list">
+                    <li><p class="text">A searchable D&D 5e spell list, sorted by class and level.</p></li>
+                    <li><a href="mailto:"></a></li>
+                </ul>
+            </div>
+            <div class="footer-col footer-col-2">
+                <p>Dr. <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> tempts fickle fate in his pursuit of the <a href="https://code.visualstudio.com/" target="_blank">code</a>.</p>
+            </div>
+            <div class="footer-col footer-col-3">
+                <p>Source available on <a href="https://github.com/Traneptora/grimoire/" target="_blank">Github</a>.</p>
+            </div>
+        </div>
+        <div class="footer-top-link"><a href="#top">Back to top &#8593;</a></div>
+    </div>
+</footer>
+
+  </body>
+</html>
