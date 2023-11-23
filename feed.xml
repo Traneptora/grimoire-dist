@@ -5,9 +5,87 @@
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
     <link>https://grimoire.thebombzen.xyz/</link>
     <atom:link href="https://grimoire.thebombzen.xyz/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 25 Jun 2023 13:28:05 -0400</pubDate>
-    <lastBuildDate>Sun, 25 Jun 2023 13:28:05 -0400</lastBuildDate>
+    <pubDate>Thu, 23 Nov 2023 10:54:50 -0500</pubDate>
+    <lastBuildDate>Thu, 23 Nov 2023 10:54:50 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Warp Sense</title>
+        <description>&lt;p&gt;&lt;strong&gt;2nd-level divination&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a razorvine leaf)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
+
+&lt;p&gt;For the duration, you sense the presence of portals, even inactive ones, within 30 feet of yourself.&lt;/p&gt;
+
+&lt;p&gt;If you detect a portal in this way, you can use your action to study it. Make a DC 15 ability check using your spellcasting ability. On a successful check, you learn the destination plane of the portal and what portal key it requires, then the spell ends. On a failed check, you learn nothing and can’t study that portal again using this spell until you cast it again.&lt;/p&gt;
+
+&lt;p&gt;The spell can penetrate most barriers but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Nov 2023 00:00:00 -0500</pubDate>
+        <link>https://grimoire.thebombzen.xyz/spells/warp-sense</link>
+        <guid isPermaLink="true">https://grimoire.thebombzen.xyz/spells/warp-sense</guid>
+        
+        <category>sorcerer</category>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>level2</category>
+        
+        <category>action</category>
+        
+        <category>concentration</category>
+        
+        <category>divination</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Gate Seal</title>
+        <description>&lt;p&gt;&lt;strong&gt;4th-level abjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a broken portal key, which the spell consumes)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 24 hours&lt;/p&gt;
+
+&lt;p&gt;You fortify the fabric of the planes in a 30-foot cube you can see within range. Within that area, portals close and can’t be opened for the duration. Spells and other effects that allow planar travel or open portals, such as &lt;em&gt;&lt;a href=&quot;gate&quot;&gt;Gate&lt;/a&gt;&lt;/em&gt; or &lt;em&gt;&lt;a href=&quot;plane-shift&quot;&gt;Plane Shift&lt;/a&gt;&lt;/em&gt;, fail if used to enter or leave the area. The cube is stationary.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;At Higher Levels.&lt;/em&gt;&lt;/strong&gt; When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Nov 2023 00:00:00 -0500</pubDate>
+        <link>https://grimoire.thebombzen.xyz/spells/gate-seal</link>
+        <guid isPermaLink="true">https://grimoire.thebombzen.xyz/spells/gate-seal</guid>
+        
+        <category>sorcerer</category>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>level4</category>
+        
+        <category>action</category>
+        
+        <category>abjuration</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
     
       <item>
         <title>Linked Glyphs</title>
@@ -465,82 +543,6 @@
         <category>action</category>
         
         <category>transmutation</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Air Bubble</title>
-        <description>&lt;p&gt;&lt;strong&gt;2nd-level conjuration&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: S&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 24 hours&lt;/p&gt;
-
-&lt;p&gt;You create a spectral globe around the head of a willing creature you can see within range. The globe is filled with fresh air that lasts until the spell ends. If the creature has more than one head, the globe of air appears around only one of its heads (which is all the creature needs to avoid suffocation, assuming that all its heads share the same respiratory system).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 3rd level or higher, you can create two additional globes of fresh air for each slot level above 2nd.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 20 Aug 2022 00:00:00 -0400</pubDate>
-        <link>https://grimoire.thebombzen.xyz/spells/air-bubble</link>
-        <guid isPermaLink="true">https://grimoire.thebombzen.xyz/spells/air-bubble</guid>
-        
-        <category>artificer</category>
-        
-        <category>druid</category>
-        
-        <category>ranger</category>
-        
-        <category>sorcerer</category>
-        
-        <category>wizard</category>
-        
-        <category>level2</category>
-        
-        <category>action</category>
-        
-        <category>conjuration</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Wristpocket</title>
-        <description>&lt;p&gt;&lt;strong&gt;2nd-level conjuration (ritual)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: S&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
-
-&lt;p&gt;You flick your wrist, causing one object in your hand to vanish. The object, which only you can be holding and can weigh no more than 5 pounds, is transported to an extradimensional space, where it remains for the duration.&lt;/p&gt;
-
-&lt;p&gt;Until the spell ends, you can use your action to summon the object to your free hand, and you can use your action to return the object to the extradimensional space. An object still in the pocket plane when the spell ends appears in your space, at your feet.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Apr 2022 00:00:00 -0400</pubDate>
-        <link>https://grimoire.thebombzen.xyz/spells/wristpocket</link>
-        <guid isPermaLink="true">https://grimoire.thebombzen.xyz/spells/wristpocket</guid>
-        
-        <category>level2</category>
-        
-        <category>action</category>
-        
-        <category>concentration</category>
-        
-        <category>ritual</category>
-        
-        <category>conjuration</category>
         
         
         <category>spells</category>
