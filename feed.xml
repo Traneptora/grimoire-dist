@@ -5,8 +5,8 @@
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
     <link>https://grimoire.thebombzen.xyz/</link>
     <atom:link href="https://grimoire.thebombzen.xyz/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 08 Feb 2024 22:12:57 -0500</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 22:12:57 -0500</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 22:15:59 -0500</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 22:15:59 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -112,7 +112,7 @@
 &lt;p&gt;&lt;em&gt;Medium Undead, Neutral&lt;/em&gt;&lt;br /&gt;
 &lt;strong&gt;Armor Class&lt;/strong&gt; 11 + the level of the spell (natural armor)&lt;br /&gt;
 &lt;strong&gt;Hit Points&lt;/strong&gt; 40 + 10 for each spell level above 4th&lt;br /&gt;
-&lt;strong&gt;Speed&lt;/strong&gt; 30 ft. fly 30 ft (hover).&lt;/p&gt;
+&lt;strong&gt;Speed&lt;/strong&gt; 30 ft., fly 30 ft. (hover)&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
