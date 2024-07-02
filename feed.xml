@@ -5,8 +5,8 @@
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
     <link>https://grimoire.thebombzen.xyz/</link>
     <atom:link href="https://grimoire.thebombzen.xyz/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 17 Apr 2024 13:42:03 -0400</pubDate>
-    <lastBuildDate>Wed, 17 Apr 2024 13:42:03 -0400</lastBuildDate>
+    <pubDate>Tue, 02 Jul 2024 09:02:05 -0400</pubDate>
+    <lastBuildDate>Tue, 02 Jul 2024 09:02:05 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -254,184 +254,6 @@
       </item>
     
       <item>
-        <title>Linked Glyphs</title>
-        <description>&lt;p&gt;&lt;strong&gt;3rd-level abjuration&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 hour&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (incense and powdered diamond worth at least 300 gp, which the spell consumes)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Until dispelled or triggered&lt;/p&gt;
-
-&lt;p&gt;When you cast this spell, you inscribe a detection glyph that later activates a magical effect at the site of a separate, linked glyph. You inscribe the detection glyph either on a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a treasure chest) to conceal the glyph. The glyph can cover an area no larger than 10 feet in diameter. If the surface or object is moved more than 10 feet from where you cast this spell, the detection glyph is broken, and the spell ends without being triggered.&lt;/p&gt;
-
-&lt;p&gt;Both glyphs are nearly invisible, and finding either requires a successful Intelligence (Investigation) check against your spell save DC.&lt;/p&gt;
-
-&lt;p&gt;You decide what triggers the detection glyph when you cast this spell. For glyphs inscribed on a surface, the most typical triggers include touching or standing on the glyph, removing another object covering the glyph, approaching within a certain distance of the glyph, or manipulating the object on which the glyph is inscribed. For glyphs inscribed within an object, the most common triggers include opening that object, approaching within a certain distance of the object, or seeing or reading the glyph. Once a glyph is triggered, this spell ends.&lt;/p&gt;
-
-&lt;p&gt;You can further refine the trigger so the spell activates only under certain circumstances or according to physical characteristics (such as height or weight), creature kind (for example, the ward could be set to affect aberrations or drow), or alignment. You can also set conditions for creatures that don’t trigger the glyph, such as those who say a certain password.&lt;/p&gt;
-
-&lt;p&gt;When you inscribe the detection glyph, choose an alarm glyph or spell glyph to link to it.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Alarm Glyph.&lt;/em&gt;&lt;/strong&gt; You create and magically link two glyphs: a detection glyph and an effect glyph. Each of these two glyphs must stay within 100 miles of the other or the spell effect ends. When the detection glyph is triggered, the effect glyph reacts like an alarm spell, creating a mental ping in your mind if you are within 1 mile of the effect glyph. This ping awakens you if you are sleeping.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Spell Glyph.&lt;/em&gt;&lt;/strong&gt; You create and magically link two glyphs: a detection glyph and an effect glyph. These two glyphs must be within 100 feet of each other. You can store a prepared spell of 4th level or lower in the effect glyph by casting it as part of creating the glyphs. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the detection glyph is triggered, the spell stored in the effect glyph is cast. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on the effect glyph. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the effect glyph. If the spell requires concentration, it lasts until the end of its full duration.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;At Higher Levels.&lt;/em&gt;&lt;/strong&gt; When you cast this spell using a spell slot of 5th level or higher to create a spell glyph, you can store any spell of up to the same level as the slot you use.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 30 Apr 2023 00:00:00 -0400</pubDate>
-        <link>https://grimoire.thebombzen.xyz/spells/linked-glyphs</link>
-        <guid isPermaLink="true">https://grimoire.thebombzen.xyz/spells/linked-glyphs</guid>
-        
-        <category>artificer</category>
-        
-        <category>bard</category>
-        
-        <category>cleric</category>
-        
-        <category>wizard</category>
-        
-        <category>level3</category>
-        
-        <category>long</category>
-        
-        <category>abjuration</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Galder’s Tower</title>
-        <description>&lt;p&gt;&lt;strong&gt;3rd-level conjuration&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 10 minutes&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 30 feet&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a fragment of stone, wood, or other building material)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 24 hours&lt;/p&gt;
-
-&lt;p&gt;You conjure a two-story tower made of stone, wood, or similar suitably sturdy materials. The tower can be round or square in shape. Each level of the tower is 10 feet tall and has an area of up to 100 square feet. Access between levels consists of a simple ladder and hatch. Each level takes one of the following forms, chosen by you when you cast the spell:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A bedroom with a bed, chairs, chest, and magical fireplace&lt;/li&gt;
-  &lt;li&gt;A study with desks, books, bookshelves, parchments, ink, and ink pens&lt;/li&gt;
-  &lt;li&gt;A dining space with a table, chairs, magical fireplace, containers, and cooking utensils&lt;/li&gt;
-  &lt;li&gt;A lounge with couches, armchairs, side tables and footstools&lt;/li&gt;
-  &lt;li&gt;A washroom with toilets, washtubs, a magical brazier, and sauna benches&lt;/li&gt;
-  &lt;li&gt;An observatory with a telescope and maps of the night sky&lt;/li&gt;
-  &lt;li&gt;An unfurnished, empty room&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The interior of the tower is warm and dry, regardless of conditions outside. Any equipment or furnishings conjured with the tower dissipate into smoke if removed from it. At the end of the spell’s duration, all creatures and objects within the tower that were not created by the spell appear safely outside on the ground, and all traces of the tower and its furnishings disappear.&lt;/p&gt;
-
-&lt;p&gt;You can cast this spell again while it is active to maintain the tower’s existence for another 24 hours. You can create a permanent tower by casting this spell in the same location and with the same configuration every day for one year.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;At Higher Levels.&lt;/em&gt;&lt;/strong&gt; When you cast this spell using a spell slot of 4th level or higher, the tower can have one additional story for each slot level beyond 3rd.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 30 Apr 2023 00:00:00 -0400</pubDate>
-        <link>https://grimoire.thebombzen.xyz/spells/galders-tower</link>
-        <guid isPermaLink="true">https://grimoire.thebombzen.xyz/spells/galders-tower</guid>
-        
-        <category>wizard</category>
-        
-        <category>level3</category>
-        
-        <category>long</category>
-        
-        <category>conjuration</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Galder’s Speedy Courier</title>
-        <description>&lt;p&gt;&lt;strong&gt;4th-level conjuration&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 10 feet&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (25 gold pieces, or mineral goods of equivalent value, which the spell consumes)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 10 minutes&lt;/p&gt;
-
-&lt;p&gt;You summon a Small air elemental to a spot within range. The air elemental is formless, nearly transparent, immune to all damage, and cannot interact with other creatures or objects. It carries an open, empty chest whose interior dimensions are 3 feet on each side. While the spell lasts, you can deposit as many items inside the chest as will fit. You can then name a living creature you have met and seen at least once before, or any creature for which you possess a body part, lock of hair, clipping from a nail, or similar portion of the creature’s body.&lt;/p&gt;
-
-&lt;p&gt;As soon as the lid of the chest is closed, the elemental and the chest disappear, then reappear adjacent to the target creature. If the target creature is on another plane, or if it is proofed against magical detection or location, the contents of the chest reappear on the ground at your feet.&lt;/p&gt;
-
-&lt;p&gt;The target creature is made aware of the chest’s contents before it chooses whether or not to open it, and knows how much of the spell’s duration remains in which it can retrieve them. No other creature can open the chest and retrieve its contents. When the spell expires or when all the contents of the chest have been removed, the elemental and the chest disappear. The elemental also disappears if the target creature orders it to return the items to you. When the elemental disappears, any items not taken from the chest reappear on the ground at your feet.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using an 8th-level spell slot or higher, you can send the chest to a creature on a different plane of existence from you.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 30 Apr 2023 00:00:00 -0400</pubDate>
-        <link>https://grimoire.thebombzen.xyz/spells/galders-speedy-courier</link>
-        <guid isPermaLink="true">https://grimoire.thebombzen.xyz/spells/galders-speedy-courier</guid>
-        
-        <category>warlock</category>
-        
-        <category>wizard</category>
-        
-        <category>level4</category>
-        
-        <category>action</category>
-        
-        <category>conjuration</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Flock of Familiars</title>
-        <description>&lt;p&gt;&lt;strong&gt;2nd-level conjuration&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 minute&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
-
-&lt;p&gt;You temporarily summon three familiars — spirits that take animal forms of your choice. Each familiar uses the same rules and options for a familiar conjured by the &lt;em&gt;&lt;a href=&quot;find-familiar&quot;&gt;find familiar&lt;/a&gt;&lt;/em&gt; spell. All the familiars conjured by this spell must be the same type of creature (celestials, fey, or fiends; your choice). If you already have a familiar conjured by the &lt;em&gt;&lt;a href=&quot;find-familiar&quot;&gt;find familiar&lt;/a&gt;&lt;/em&gt; spell or similar means, then one fewer familiars are conjured by this spell.&lt;/p&gt;
-
-&lt;p&gt;Familiars summoned by this spell can telepathically communicate with you and share their visual or auditory senses while they are within 1 mile of you.&lt;/p&gt;
-
-&lt;p&gt;When you cast a spell with a range of touch, one of the familiars conjured by this spell can deliver the spell, as normal. However, you can cast a touch spell through only one familiar per turn.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;At Higher Levels.&lt;/em&gt;&lt;/strong&gt; When you cast this spell using a spell slot of 3rd level or higher, you conjure an additional familiar for each slot level above 2nd.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 30 Apr 2023 00:00:00 -0400</pubDate>
-        <link>https://grimoire.thebombzen.xyz/spells/flock-of-familiars</link>
-        <guid isPermaLink="true">https://grimoire.thebombzen.xyz/spells/flock-of-familiars</guid>
-        
-        <category>warlock</category>
-        
-        <category>wizard</category>
-        
-        <category>level2</category>
-        
-        <category>long</category>
-        
-        <category>concentration</category>
-        
-        <category>conjuration</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
         <title>Frost Fingers</title>
         <description>&lt;p&gt;&lt;strong&gt;1st-level evocation&lt;/strong&gt;&lt;/p&gt;
 
@@ -460,6 +282,296 @@
         <category>action</category>
         
         <category>evocation</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Encode Thoughts</title>
+        <description>&lt;p&gt;&lt;strong&gt;Enchantment cantrip&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: S&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 8 hours&lt;/p&gt;
+
+&lt;p&gt;Putting a finger to your head, you pull a memory, an idea, or a message from your mind and transform it into a tangible string of glowing energy called a thought strand, which persists for the duration or until you cast this spell again. The thought strand appears in an unoccupied space within 5 feet of you as a Tiny, weightless, semisolid object that can be held and carried like a ribbon. It is otherwise stationary.&lt;/p&gt;
+
+&lt;p&gt;If you cast this spell while concentrating on a spell or an ability that allows you to read or manipulate the thoughts of others (such as &lt;em&gt;&lt;a href=&quot;detect-thoughts&quot;&gt;detect thoughts&lt;/a&gt;&lt;/em&gt; or &lt;em&gt;&lt;a href=&quot;modify-memory&quot;&gt;modify memory&lt;/a&gt;&lt;/em&gt;), you can transform the thoughts or memories you read, rather than your own, into a thought strand.&lt;/p&gt;
+
+&lt;p&gt;Casting this spell while holding a thought strand allows you to instantly receive whatever memory, idea, or message the thought strand contains. (Casting &lt;em&gt;&lt;a href=&quot;detect-thoughts&quot;&gt;detect thoughts&lt;/a&gt;&lt;/em&gt; on the strand has the same effect.)&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Feb 2023 00:00:00 -0500</pubDate>
+        <link>https://grimoire.thebombzen.xyz/spells/encode-thoughts</link>
+        <guid isPermaLink="true">https://grimoire.thebombzen.xyz/spells/encode-thoughts</guid>
+        
+        <category>cantrip</category>
+        
+        <category>action</category>
+        
+        <category>enchantment</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Create Magen</title>
+        <description>&lt;p&gt;&lt;strong&gt;7th-level transmutation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 hour&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a vial of quicksilver worth 500 gp and a life-sized human doll, both of which the spell consumes, and an intricate crystal rod worth at least 1,500 gp that is not consumed)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+
+&lt;p&gt;While casting the spell, you place a vial of quicksilver in the chest of a life-sized human doll stuffed with ash or dust. You then stitch up the doll and drip your blood on it. At the end of the casting, you tap the doll with a crystal rod, transforming it into a magen clothed in whatever the doll was wearing. The type of magen is chosen by you during the casting of the spell. See Appendix C for different kinds of magen and their statistics.&lt;/p&gt;
+
+&lt;p&gt;When the magen appears, your hit point maximum decreases by an amount equal to the magen’s challenge rating (minimum reduction of 1). Only a wish spell can undo this reduction to your hit point maximum.&lt;/p&gt;
+
+&lt;p&gt;Any magen you create with this spell obeys your commands without question.&lt;/p&gt;
+
+&lt;h2 id=&quot;hypnos-magen&quot;&gt;&lt;u&gt;Hypnos Magen&lt;/u&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Medium Construct, Unaligned&lt;/em&gt;&lt;br /&gt;
+&lt;strong&gt;Armor Class&lt;/strong&gt; 12&lt;br /&gt;
+&lt;strong&gt;Hit Points&lt;/strong&gt; 34 (4d8 + 16)&lt;br /&gt;
+&lt;strong&gt;Speed&lt;/strong&gt; 30 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10 (+0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;18 (+4)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10 (+0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7  (-2)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Immunities&lt;/strong&gt; poison&lt;br /&gt;
+&lt;strong&gt;Condition Immunities&lt;/strong&gt; charmed, exhuastion, frightenend, paralyzed, poisoned&lt;br /&gt;
+&lt;strong&gt;Senses&lt;/strong&gt; passive Perception 10&lt;br /&gt;
+&lt;strong&gt;Languages&lt;/strong&gt; understands the languages of its creator but can’t speak, telepathy 30 ft.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Fiery End.&lt;/em&gt;&lt;/strong&gt; If the magen dies, its body disintegrates in a harmless burst of fire and smoke, leaving behind anything it was wearing or carrying.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Magic Resistance.&lt;/em&gt;&lt;/strong&gt; The magen has advantage on saving throws against spells and other magical effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Unusual Nature.&lt;/em&gt;&lt;/strong&gt; The magen doesn’t require air, food, drink, or sleep.&lt;/p&gt;
+
+&lt;h3 id=&quot;actions&quot;&gt;&lt;u&gt;Actions&lt;/u&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Psychic Lash.&lt;/em&gt;&lt;/strong&gt; The magen’s eyes glow silver as it targets one creature that it can see within 60 feet of it. The target must succeed on a DC 12 Wisdom saving throw or take 11 (2d10) psychic damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Suggestion.&lt;/em&gt;&lt;/strong&gt; The magen casts the &lt;em&gt;&lt;a href=&quot;suggestion&quot;&gt;suggestion&lt;/a&gt;&lt;/em&gt; spell (save DC 12), requiring no material components. The target must be a creature that the magen can communicate with telepathically. If it succeeds on its saving throw, the target is immune to this magen’s suggestion spell for the next 24 hours. The magen’s spellcasting ability is Intelligence.&lt;/p&gt;
+
+&lt;h2 id=&quot;demos-magen&quot;&gt;&lt;u&gt;Demos Magen&lt;/u&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Medium Construct, Unaligned&lt;/em&gt;&lt;br /&gt;
+&lt;strong&gt;Armor Class&lt;/strong&gt; 16 (chain mail)&lt;br /&gt;
+&lt;strong&gt;Hit Points&lt;/strong&gt; 51 (6d8 + 24)&lt;br /&gt;
+&lt;strong&gt;Speed&lt;/strong&gt; 30 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;18 (+4)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10 (+0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10 (+0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7  (-2)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Immunities&lt;/strong&gt; poison&lt;br /&gt;
+&lt;strong&gt;Condition Immunities&lt;/strong&gt; charmed, exhuastion, frightenend, paralyzed, poisoned&lt;br /&gt;
+&lt;strong&gt;Senses&lt;/strong&gt; passive Perception 10&lt;br /&gt;
+&lt;strong&gt;Languages&lt;/strong&gt; understands the languages of its creator but can’t speak&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Fiery End.&lt;/em&gt;&lt;/strong&gt; If the magen dies, its body disintegrates in a harmless burst of fire and smoke, leaving behind anything it was wearing or carrying.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Magic Resistance.&lt;/em&gt;&lt;/strong&gt; The magen has advantage on saving throws against spells and other magical effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Unusual Nature.&lt;/em&gt;&lt;/strong&gt; The magen doesn’t require air, food, drink, or sleep.&lt;/p&gt;
+
+&lt;h3 id=&quot;actions-1&quot;&gt;&lt;u&gt;Actions&lt;/u&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack.&lt;/em&gt;&lt;/strong&gt; The magen makes two melee attacks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Greatsword.&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;Melee Weapon Attack:&lt;/em&gt; +4 to hit, reach 5 ft., one target.&lt;br /&gt;
+&lt;em&gt;Hit:&lt;/em&gt; 9 (2d6 + 2) slashing damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Light Crossbow.&lt;/strong&gt; &lt;em&gt;Light Crossbow:&lt;/em&gt; +4 to hit, range 80/320 ft., one target.&lt;br /&gt;
+&lt;em&gt;Hit:&lt;/em&gt; 6 (1d8 + 2) piercing damage.&lt;/p&gt;
+
+&lt;h2 id=&quot;galvan-magen&quot;&gt;&lt;u&gt;Galvan Magen&lt;/u&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Medium Construct, Unaligned&lt;/em&gt;&lt;br /&gt;
+&lt;strong&gt;Armor Class&lt;/strong&gt; 14&lt;br /&gt;
+&lt;strong&gt;Hit Points&lt;/strong&gt; 68 (8d8 + 32)&lt;br /&gt;
+&lt;strong&gt;Speed&lt;/strong&gt; 30 ft., fly 30 ft. (hover)&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;18 (+4)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;18 (+4)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10 (+0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7  (-2)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Immunities&lt;/strong&gt; lightning, poison&lt;br /&gt;
+&lt;strong&gt;Condition Immunities&lt;/strong&gt; charmed, exhuastion, frightenend, paralyzed, poisoned&lt;br /&gt;
+&lt;strong&gt;Senses&lt;/strong&gt; passive Perception 10&lt;br /&gt;
+&lt;strong&gt;Languages&lt;/strong&gt; understands the languages of its creator but can’t speak&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Fiery End.&lt;/em&gt;&lt;/strong&gt; If the magen dies, its body disintegrates in a harmless burst of fire and smoke, leaving behind anything it was wearing or carrying.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Magic Resistance.&lt;/em&gt;&lt;/strong&gt; The magen has advantage on saving throws against spells and other magical effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Unusual Nature.&lt;/em&gt;&lt;/strong&gt; The magen doesn’t require air, food, drink, or sleep.&lt;/p&gt;
+
+&lt;h3 id=&quot;actions-2&quot;&gt;&lt;u&gt;Actions&lt;/u&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack.&lt;/em&gt;&lt;/strong&gt; The magen makes two &lt;em&gt;Shocking Touch&lt;/em&gt; attacks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Shocking Touch.&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;Melee Spell Attack:&lt;/em&gt; +6 to hit, reach 5 ft., one target (the magen has advantage on the attack roll if the target is wearing armor made of metal).&lt;br /&gt;
+&lt;em&gt;Hit:&lt;/em&gt; 7 (1d6 + 4) lightning damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Static Discharge (Recharge 5–6).&lt;/em&gt;&lt;/strong&gt; The magen discharges a lightning bolt in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw (with disadvantage if the creature is wearing armor made of metal), taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Feb 2023 00:00:00 -0500</pubDate>
+        <link>https://grimoire.thebombzen.xyz/spells/create-magen</link>
+        <guid isPermaLink="true">https://grimoire.thebombzen.xyz/spells/create-magen</guid>
+        
+        <category>wizard</category>
+        
+        <category>level7</category>
+        
+        <category>long</category>
+        
+        <category>transmutation</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Create Spelljamming Helm</title>
+        <description>&lt;p&gt;&lt;strong&gt;5th-level transmutation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a crystal rod worth at least 5,000 gp, which the spell consumes)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+
+&lt;p&gt;Holding the rod used in the casting of the spell, you touch a Large or smaller chair that is unoccupied. The rod disappears, and the chair is transformed into a spelljamming helm.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Aug 2022 00:00:00 -0400</pubDate>
+        <link>https://grimoire.thebombzen.xyz/spells/create-spelljamming-helm</link>
+        <guid isPermaLink="true">https://grimoire.thebombzen.xyz/spells/create-spelljamming-helm</guid>
+        
+        <category>artificer</category>
+        
+        <category>wizard</category>
+        
+        <category>level5</category>
+        
+        <category>action</category>
+        
+        <category>transmutation</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Air Bubble</title>
+        <description>&lt;p&gt;&lt;strong&gt;2nd-level conjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: S&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 24 hours&lt;/p&gt;
+
+&lt;p&gt;You create a spectral globe around the head of a willing creature you can see within range. The globe is filled with fresh air that lasts until the spell ends. If the creature has more than one head, the globe of air appears around only one of its heads (which is all the creature needs to avoid suffocation, assuming that all its heads share the same respiratory system).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 3rd level or higher, you can create two additional globes of fresh air for each slot level above 2nd.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Aug 2022 00:00:00 -0400</pubDate>
+        <link>https://grimoire.thebombzen.xyz/spells/air-bubble</link>
+        <guid isPermaLink="true">https://grimoire.thebombzen.xyz/spells/air-bubble</guid>
+        
+        <category>artificer</category>
+        
+        <category>druid</category>
+        
+        <category>ranger</category>
+        
+        <category>sorcerer</category>
+        
+        <category>wizard</category>
+        
+        <category>level2</category>
+        
+        <category>action</category>
+        
+        <category>conjuration</category>
         
         
         <category>spells</category>
