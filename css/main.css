@@ -80,7 +80,7 @@ a {
   text-decoration: none;
 }
 a:visited {
-  color: #346b85;
+  color: rgb(52.3588709677, 106.9616935484, 133.1411290323);
 }
 a:hover {
   color: #333;
@@ -173,7 +173,7 @@ pre > code {
  * Site header
  */
 .site-header {
-  border-top: 4px solid #781900;
+  border-top: 4px solid rgb(119.5, 24.724137931, 0);
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
   position: relative;
@@ -188,7 +188,7 @@ pre > code {
   z-index: 10;
 }
 .site-title, .site-title:visited {
-  color: #424242;
+  color: rgb(66.25, 66.25, 66.25);
 }
 
 .site-nav {
@@ -238,7 +238,7 @@ pre > code {
     height: 15px;
   }
   .site-nav .menu-icon > svg path {
-    fill: #424242;
+    fill: rgb(66.25, 66.25, 66.25);
   }
   .site-nav .trigger {
     clear: both;
@@ -350,7 +350,7 @@ pre > code {
   line-height: 1.5;
   width: 33%;
   max-width: 400px;
-  border: 1px solid #781900;
+  border: 1px solid rgb(119.5, 24.724137931, 0);
   border-radius: 4px;
   margin-left: 8px;
 }
@@ -374,7 +374,7 @@ dl.tag-list {
 dl.tag-list dt {
   font-weight: bold;
   display: inline-block;
-  color: #424242;
+  color: rgb(66.25, 66.25, 66.25);
   padding-right: 20px;
 }
 dl.tag-list dd {
@@ -384,7 +384,7 @@ dl.tag-list dd {
 
 .post-list-head {
   font-size: 22px;
-  color: #424242;
+  color: rgb(66.25, 66.25, 66.25);
   margin-top: 30px;
   font-family: "Libertinus Serif Display";
   font-weight: 400;
