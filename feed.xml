@@ -5,8 +5,8 @@
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
     <link>https://grimoire.thebombzen.xyz/</link>
     <atom:link href="https://grimoire.thebombzen.xyz/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 19 Jun 2025 20:40:55 -0400</pubDate>
-    <lastBuildDate>Thu, 19 Jun 2025 20:40:55 -0400</lastBuildDate>
+    <pubDate>Wed, 25 Jun 2025 10:51:47 -0400</pubDate>
+    <lastBuildDate>Wed, 25 Jun 2025 10:51:47 -0400</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
@@ -298,7 +298,7 @@
         <title>Gate Seal</title>
         <description>&lt;p&gt;&lt;strong&gt;4th-level abjuration&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 minute&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
 
@@ -322,7 +322,7 @@
         
         <category>level4</category>
         
-        <category>action</category>
+        <category>long</category>
         
         <category>abjuration</category>
         
