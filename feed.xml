@@ -5,8 +5,8 @@
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
     <link>https://grimoire.thebombzen.xyz/</link>
     <atom:link href="https://grimoire.thebombzen.xyz/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 22 Nov 2025 11:53:42 -0500</pubDate>
-    <lastBuildDate>Sat, 22 Nov 2025 11:53:42 -0500</lastBuildDate>
+    <pubDate>Fri, 05 Jun 2026 12:14:29 -0400</pubDate>
+    <lastBuildDate>Fri, 05 Jun 2026 12:14:29 -0400</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
@@ -29,7 +29,7 @@
 
 &lt;p&gt;If the attack roll scores a critical hit, the target of that missile takes 5d4 force damage instead of you rolling damage twice for a critical hit. If the attack roll for any missile is a 1, all missiles miss their targets and blow up in your face, dealing 1 force damage per missile to you.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart, and the royalty component increases by 1 gp, for each slot level above 1st.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;At Higher Levels.&lt;/em&gt;&lt;/strong&gt; When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart, and the royalty component increases by 1 gp, for each slot level above 1st.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jul 2024 00:00:00 -0400</pubDate>
         <link>https://grimoire.thebombzen.xyz/spells/jims-magic-missile</link>
@@ -101,7 +101,7 @@
 
 &lt;p&gt;You cast this spell on an object no more than 1 foot on a side, doubling the object’s perceived value by adding illusory flourishes or polish to it, or reducing its perceived value by half with the help of illusory scratches, dents, and other unsightly features. Anyone examining the object can ascertain its true value with a successful Intelligence (Investigation) check against your spell save DC.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 2nd level or higher, the maximum size of the object increases by 1 foot for each slot level above 1st.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;At Higher Levels.&lt;/em&gt;&lt;/strong&gt; When you cast this spell using a spell slot of 2nd level or higher, the maximum size of the object increases by 1 foot for each slot level above 1st.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jul 2024 00:00:00 -0400</pubDate>
         <link>https://grimoire.thebombzen.xyz/spells/distort-value</link>
