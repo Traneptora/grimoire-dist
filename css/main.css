@@ -523,7 +523,7 @@ table {
   width: 100%;
   border-collapse: collapse;
   margin-bottom: 15px;
-  border: 1px solid #771900;
+  border: 1px solid #c74d2c;
 }
 
 th {
@@ -531,7 +531,7 @@ th {
   padding: 10px 15px;
   font-weight: normal;
   color: #00000b;
-  background-color: #771900;
+  background-color: #c74d2c;
 }
 
 tbody tr:nth-of-type(even) {
