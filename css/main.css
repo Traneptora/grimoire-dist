@@ -559,6 +559,9 @@ td {
   }
 }
 @media screen and (prefers-color-scheme: dark) and (max-width: 750px) {
+  .site-nav {
+    background-color: #080813;
+  }
   .site-nav .menu-icon > svg path {
     fill: #a0a0a0;
   }
